@@ -1,24 +1,4 @@
-// let area = document.querySelector(".area");
-// let num= document.querySelectorAll("button");
-
-// num.forEach( i => {
-//     i.addEventListener("click", function(){
-        
-//         let a=i.textContent;
-
-//          if (a === "="){
-//             area.textContent=eval(area.textContent);
-//          }
-        
-//          else{
-//             area.textContent += a;
-//          }
-         
-// })
-
-// });
-
-
+// Javascript Code 
 
 let bt =document.querySelector(".abc");
 let bt2 =document.querySelector(".def");
@@ -150,7 +130,7 @@ form2.addEventListener("submit",(f)=>{
         alert("Succesfully Created Account !!!");
     }
 });
-z
+
 
 
 
