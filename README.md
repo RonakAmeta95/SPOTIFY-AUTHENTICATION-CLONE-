@@ -1,4 +1,4 @@
-# SPOTIFY-AUTHENTICATION-CLONE
+# SPOTIFY AUTHENTICATION CLONE
 
 A Spotify-inspired authentication interface built using **HTML**, **CSS**, and **JavaScript**. This project features interactive Login and Create Account popups with client-side form validation and a modern Spotify-themed user interface.
 
